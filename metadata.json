@@ -1,0 +1,6 @@
+{
+  "name": "Chinna AI - Simple LLM Tool",
+  "description": "A simple AI interface built with Gemini to explain what LLMs are and provide a helpful chat experience in Tamil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
